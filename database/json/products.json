@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Samsung Galaxy S21",
+        "price": "99999",
+        "category": "Android Phone",
+        "description": "Powerful flagship device with a stunning display",
+        "gallery": "https://www.mobile-dokan.com/wp-content/uploads/2022/08/Samsung-Galaxy-S21-5G-500x500.jpg"
+      },
+      {
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "price": "22999",
+        "category": "Android Phone",
+        "description": "Feature-packed phone with a high-resolution camera",
+        "gallery": "https://m.media-amazon.com/images/I/51UyTHwP6wL._AC_SL1000_.jpg"
+      },
+      {
+        "name": "Realme Narzo 30",
+        "price": "14999",
+        "category": "Android Phone",
+        "description": "Affordable phone with a large display and long battery life",
+        "gallery": "https://www.mobiledokan.co/wp-content/uploads/2021/05/Realme-Narzo-30-5G-Racing-Blue.jpg"
+      },
+      {
+        "name": "Oppo A74",
+        "price": "17990",
+        "category": "Android Phone",
+        "description": "Slim and stylish phone with a powerful processor",
+        "gallery": "https://www.gsmmark.com/wp-content/uploads/2021/09/Oppo-A74-5G-378x378.jpg"
+      },
+      {
+        "name": "Vivo V21",
+        "price": "39990",
+        "category": "Android Phone",
+        "description": "Phone with excellent selfie capabilities and 5G support",
+        "gallery": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1622189571574/f1389f46dd7704973ed32fe5e024632c.png"
+      },
+      {
+        "name": "OnePlus 9 Pro",
+        "price": "94999",
+        "category": "Android Phone",
+        "description": "High-end flagship device with a top-of-the-line camera",
+        "gallery": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg"
+      },
+      {
+        "name": "Nokia X20",
+        "price": "25990",
+        "category": "Android Phone",
+        "description": "Durable phone with long software support and clean UI",
+        "gallery": "https://www.mobiledokan.co/wp-content/uploads/2021/03/Nokia-X20-Midnight-Sun.jpg"
+      },
+      {
+        "name": "Motorola Moto G60",
+        "price": "26999",
+        "category": "Android Phone",
+        "description": "Phone with a high-refresh-rate display and stock Android experience",
+        "gallery": "https://static.gadgetandgear.com/tmp/product/20220301_1646119064_771844.png"
+      },
+      {
+        "name": "Google Pixel 4a",
+        "price": "52999",
+        "category": "Android Phone",
+        "description": "Camera-centric phone with clean Android and regular updates",
+        "gallery": "https://mobilephones.co.ke/wp-content/uploads/2021/10/Google-Pixel-4a.jpg"
+      },
+      {
+        "name": "Huawei P40 Pro",
+        "price": "89999",
+        "category": "Android Phone",
+        "description": "Flagship device with exceptional camera capabilities",
+        "gallery": "https://www.gsmmark.com/wp-content/uploads/2021/01/Huawei-P40-Pro.jpg"
+      },
+      {
+        "name": "Sony Xperia 1 III",
+        "price": "119999",
+        "category": "Android Phone",
+        "description": "Premium phone with 4K OLED display and powerful internals",
+        "gallery": "https://www.sony-asia.com/image/bec37fd1196426136aae242507e874b0?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+      },
+      {
+        "name": "LG Velvet",
+        "price": "52000",
+        "category": "Android Phone",
+        "description": "Sleek and stylish phone with a dual-screen accessory",
+        "gallery": "https://images.hothardware.com/contentimages/article/3006/content/16x9_2133x1200_highres-lg-velvet.jpg"
+      },
+      {
+        "name": "HTC U20 5G",
+        "price": "56990",
+        "category": "Android Phone",
+        "description": "5G-enabled phone with a large battery and quad-camera setup",
+        "gallery": "https://phoneaqua.com/products/htc-u20-5g.jpg"
+      },
+      {
+        "name": "Asus ROG Phone 5",
+        "price": "124999",
+        "category": "Android Phone",
+        "description": "Gaming phone with powerful hardware and dedicated gaming features",
+        "gallery": "https://www.mobiledokan.co/wp-content/uploads/2021/08/Asus-ROG-Phone-5s-Storm-White.jpg"
+      },
+      {
+        "name": "Infinix Note 10",
+        "price": "14990",
+        "category": "Android Phone",
+        "description": "Budget-friendly phone with a large display and long-lasting battery",
+        "gallery": "https://fdn2.mobgsm.com/vv/pics/infinix/infinix-note-10-1.jpg"
+      },
+      {
+        "name": "Tecno Camon 17 Pro",
+        "price": "24990",
+        "category": "Android Phone",
+        "description": "Phone with a high-resolution camera and AI capabilities",
+        "gallery": "https://fdn2.mobgsm.com/vv/pics/tecno/tecno-camon-17-pro-1.jpg"
+      },
+      {
+        "name": "Lenovo Legion Phone Duel 2",
+        "price": "119999",
+        "category": "Android Phone",
+        "description": "Gaming phone with a unique design and powerful gaming features",
+        "gallery": "https://fdn2.gsmarena.com/vv/pics/zte/zte-axon-30-ultra-r2.jpg"
+      },
+      {
+        "name": "BlackBerry Key2",
+        "price": "64990",
+        "category": "Android Phone",
+        "description": "Phone with a physical keyboard and enhanced security features",
+        "gallery": "https://cdn.vox-cdn.com/thumbor/ZgWTfTJQnXE_s52SfMmNozwMwvg=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11482121/akrales_180531_2598_0061.jpg"
+      }
+]

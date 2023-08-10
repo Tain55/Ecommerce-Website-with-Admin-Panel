@@ -1,0 +1,87 @@
+img.slider-img{
+    height: 400px !important
+}
+.slider-text{
+    background-color: #5c6e588b;
+}
+.trending-image{
+    height: 100px !important;
+}
+.trending-image-pos{
+    display: grid;
+    justify-items: center;
+}
+.trending-text{
+    text-align: center;
+    color: white;
+}
+.trending-item{
+    padding: 20px;
+    height: 200px;
+    border-radius: 20px;
+    background: #8aa89987;
+}
+.trending-item:hover{
+    color: #f2d349e4;
+}
+.detail-img{
+    height: 200px;
+}
+.trending-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1em;  
+    justify-content: center;
+    align-items: center;           
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .trending-wrapper{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1em;  
+        justify-content: center;
+        align-items: center;           
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .trending-wrapper{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1em;  
+        justify-content: center;
+        align-items: center;           
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .trending-wrapper{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 1em;  
+        justify-content: center;
+        align-items: center;           
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {.trending-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1em;  
+    justify-content: center;
+    align-items: center;           
+}}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {.trending-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;           
+}}
